@@ -6,6 +6,7 @@
 > 1. [Extracting Game Files](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/Extracting-Game-Files)
 > 1. [Textures](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/Textures)
 > 1. [Models](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/Models)
+> 1. [Troubleshooting](https://github.com/Havens-Night/REEngine-Modding)
 > 1. [ID Lookups](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/ID-Lookups)
 
 ## Other:
